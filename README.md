@@ -1,2 +1,2 @@
-# umbraco_automation
+# AutoUmbraco
 Automation of Umbraco
